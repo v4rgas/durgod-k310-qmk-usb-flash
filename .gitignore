@@ -1,0 +1,4 @@
+backup/
+stock/
+__pycache__/
+*.elf
